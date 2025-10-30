@@ -74,3 +74,46 @@ header{
     font-weight: 600;
 }
 
+.Overskrift2{
+    display: flex;
+    justify-content: center;
+    font-size: 48px;
+    font-weight: 600;
+    color: white;
+    background-color: #A01218;
+    margin: none;
+}
+
+#forvente{
+    background-color: #A01218;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 100px;
+}
+
+#over{
+    display: flex;
+    justify-content: center;
+    font-size: 48px;
+    font-weight: 600;
+    color: white;
+    background-color: #A01218;
+}
+
+#bogt{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
