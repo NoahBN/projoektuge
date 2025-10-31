@@ -46,10 +46,12 @@ header{
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-left: 521px;
-    margin-right: 521px;
     border-radius: 49px;
     color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    
+
 }
 
 #øverstebillede{
@@ -175,6 +177,9 @@ header{
         display: flex;
         flex-direction: column;
     }
+    .button{
+        margin-top: 57px;
+    }
     #bogt{
         display: flex;
         flex-direction: column;
@@ -186,6 +191,14 @@ header{
     #lillepic{
         display: flex;
         flex-wrap: wrap;
+    }
+    #sponsors{
+        display: flex;
+        flex-direction: column;
+    }
+    #øverstebillede{
+        height: 570px;
+        width: 768px;
     }
 
 
