@@ -157,12 +157,14 @@ header{
     justify-content: space-evenly;
     align-items: center;
     height: 200px;
+    gap: 20px;
 }
 
 #lillepic{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    gap: 20px;
 }
 @media (max-width: 768px){
     .heste{
