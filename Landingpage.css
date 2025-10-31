@@ -197,9 +197,19 @@ header{
         flex-direction: column;
     }
     #øverstebillede{
-        height: 570px;
-        width: 768px;
+        display: none;
     }
+
+    #head{
+        display: none;
+    }
+
+    #DMLOGO{
+        width: 100%;
+        height: auto;
+    }
+
+
 
 
 }
